@@ -56,3 +56,20 @@ This project is useful for **schools, colleges, and universities** that want to 
 - Eliminate **human scheduling errors**  
 - Provide a **fast and reliable** academic scheduling solution  
 - Make the system **scalable for institutions**
+
+---
+
+## ▶️ How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/AcadTime-Automatic-Timetable-Generator.git
+
+# Move into project folder
+cd AcadTime-Automatic-Timetable-Generator
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
