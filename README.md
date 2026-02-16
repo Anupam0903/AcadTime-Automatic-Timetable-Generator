@@ -22,7 +22,7 @@ This project is useful for **schools, colleges, and universities** that want to 
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / TypeScript
+- **Frontend:** JavaScript and TypeScript
 - **Backend:** TypeScript  
 - **Package Manager:** npm  
 - **Concepts Used:**  
