@@ -29,7 +29,7 @@ This project is useful for **schools, colleges, and universities** that want to 
   - Data Structures  
   - Scheduling Algorithm  
   - Constraint Handling  
-- **Interface:** Console / Basic UI *(update if GUI or web)*
+- **Interface:** Console / Basic UI 
 
 ---
 
