@@ -22,7 +22,9 @@ This project is useful for **schools, colleges, and universities** that want to 
 
 ## 🛠️ Tech Stack
 
-- **Programming Language:** Java / Python *(update as per your project)*  
+- **Frontend:** React / TypeScript
+- **Backend:** TypeScript  
+- **Package Manager:** npm  
 - **Concepts Used:**  
   - Data Structures  
   - Scheduling Algorithm  
